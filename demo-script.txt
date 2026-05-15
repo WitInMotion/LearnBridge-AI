@@ -1,0 +1,58 @@
+LEARNBRIDGE AI DEMO SCRIPT
+
+INTRODUCTION
+
+Every year, millions of students across Nigeria prepare for WAEC and JAMB examinations.
+
+However, many students struggle because they lack access to quality tutoring and personalized learning support.
+
+LearnBridge AI was built to help bridge this educational gap using local AI powered by Gemma 4.
+
+
+
+PRODUCT OVERVIEW
+
+LearnBridge AI is an AI-powered tutoring assistant that helps students:
+- understand difficult concepts
+- generate practice quizzes
+- prepare for WAEC and JAMB examinations
+
+The application runs locally using Ollama and Gemma models.
+
+
+
+LIVE DEMO
+
+I will now ask LearnBridge AI a mathematics question.
+
+[Ask question]
+
+The AI responds with simple, step-by-step explanations designed for teenagers and exam preparation.
+
+Next, I will generate a practice quiz.
+
+[Generate study]
+
+The system creates WAEC and JAMB-style questions instantly.
+
+
+
+TECHNICAL ARCHITECTURE
+
+The application was built using:
+- Streamlit
+- Ollama
+- Gemma 4
+- Python
+
+The project uses local AI inference to support accessibility in low-resource environments.
+
+
+
+FUTURE VISION
+
+Our vision is to expand LearnBridge AI into an offline-first educational platform with multilingual support, voice tutoring, and personalized learning paths.
+
+LearnBridge AI is more than an app.
+
+It is a step toward making quality education accessible to every student.
