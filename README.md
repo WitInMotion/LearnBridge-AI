@@ -103,5 +103,5 @@ The goal is to make quality learning support accessible to more students regardl
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/learnbridge-ai.git
+git clone https://github.com/WitInMotion/learnbridge-ai.git
 cd learnbridge-ai
